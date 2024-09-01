@@ -1,6 +1,31 @@
 ### Hi I am Shoaib 👋
 
-- 🔭 I’m currently working on Data Analytics and Data Science projects
-- 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on Data Analytics. Data Science, AI, ML, GenAI
-- 💬 Ask me about python, SQL, PowerBI
+______________________________________________
+My Tech Stack 🧰
+
+Programming Languages: Python, SQL
+
+Softwares/Tools: PowerBI, Microsoft Excel, MySQL, SQL Developer, Microsoft PowerPoint, Github
+
+Frameworks/Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Selenium, Streamlit
+
+IDEs: Visual Studio Code, Jupyter Notebook, PyCharm
+______________________________________________
+
+➡️ Experienced in designing interactive, visually compelling dashboards and BI reports
+
+➡️ Proficient in Data Analysis, Data Transformation and Data Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+➡️ Skilled in automating repetitive tasks and streamlining workflows
+
+➡️ Strong Analytical skills to interpret data, identify trends, and generate actionable insights.
+
+➡️ Adept at solving complex problems through business logic and technology
+
+➡️ Skilled in providing data-driven solutions to business challenges
+______________________________________________
+
+Check out my (portfolio)[https://www.notion.so/shoaib-akthar/Hey-there-I-am-Shoaib-40a602c49b304b2a87344adde578036d] for more details ✅
+
+Drop a mail 👇🏻
+📬 shoaibshaik547@gmail.com
