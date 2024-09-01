@@ -25,7 +25,8 @@ ______________________________________________
 ➡️ Skilled in providing data-driven solutions to business challenges
 ______________________________________________
 
-Check out my (portfolio)[https://www.notion.so/shoaib-akthar/Hey-there-I-am-Shoaib-40a602c49b304b2a87344adde578036d] for more details ✅
+Check out my [portfolio](https://www.notion.so/shoaib-akthar/Hey-there-I-am-Shoaib-40a602c49b304b2a87344adde578036d) for more details ✅
 
 Drop a mail 👇🏻
+
 📬 shoaibshaik547@gmail.com
