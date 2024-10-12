@@ -25,7 +25,7 @@ ______________________________________________
 ➡️ Skilled in providing data-driven solutions to business challenges
 ______________________________________________
 
-Check out my [portfolio](https://shoaib547.github.io/) for more details ✅
+Check out my [portfolio](https://shoaibcodes.netlify.app/) for more details ✅
 
 Drop a mail 👇🏻
 
