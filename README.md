@@ -29,4 +29,4 @@ Check out my [portfolio](https://shoaibcodes.netlify.app/) for more details ✅
 
 Drop a mail 👇🏻
 
-📬 shoaibshaik547@gmail.com
+📬 datawithshoaib@gmail.com
