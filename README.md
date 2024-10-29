@@ -25,7 +25,7 @@ ______________________________________________
 ➡️ Skilled in providing data-driven solutions to business challenges
 ______________________________________________
 
-Check out my [website](https://shoaibakthar.netlify.app/) for more details ✅
+Check out my [website](https://datawithshoaib.netlify.app/) for more details ✅
 
 Drop a mail 👇🏻
 
